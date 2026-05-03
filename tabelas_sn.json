@@ -1,0 +1,39 @@
+{
+  "anexos": {
+    "I": { "nome": "Comércio", "faixas": [
+        {"limite": 180000,  "nominal": 0.0400, "deducao": 0.00},
+        {"limite": 360000,  "nominal": 0.0735, "deducao": 5940.00},
+        {"limite": 720000,  "nominal": 0.0950, "deducao": 13860.00},
+        {"limite": 1800000, "nominal": 0.1070, "deducao": 22500.00},
+        {"limite": 3600000, "nominal": 0.1450, "deducao": 87300.00},
+        {"limite": 4800000, "nominal": 0.1900, "deducao": 378000.00}]},
+    "II": { "nome": "Indústria", "faixas": [
+        {"limite": 180000,  "nominal": 0.0450, "deducao": 0.00},
+        {"limite": 360000,  "nominal": 0.0780, "deducao": 5940.00},
+        {"limite": 720000,  "nominal": 0.1000, "deducao": 13860.00},
+        {"limite": 1800000, "nominal": 0.1120, "deducao": 22500.00},
+        {"limite": 3600000, "nominal": 0.1500, "deducao": 85500.00},
+        {"limite": 4800000, "nominal": 0.1900, "deducao": 720000.00}]},
+    "III": { "nome": "Serviços Fator R >= 28%", "faixas": [
+        {"limite": 180000,  "nominal": 0.0600, "deducao": 0.00},
+        {"limite": 360000,  "nominal": 0.1123, "deducao": 9360.00},
+        {"limite": 720000,  "nominal": 0.1350, "deducao": 17640.00},
+        {"limite": 1800000, "nominal": 0.1600, "deducao": 35640.00},
+        {"limite": 3600000, "nominal": 0.2100, "deducao": 125640.00},
+        {"limite": 4800000, "nominal": 0.3300, "deducao": 648000.00}]},
+    "IV": { "nome": "Serviços sem Fator R", "faixas": [
+        {"limite": 180000,  "nominal": 0.0450, "deducao": 0.00},
+        {"limite": 360000,  "nominal": 0.0900, "deducao": 8100.00},
+        {"limite": 720000,  "nominal": 0.1020, "deducao": 12420.00},
+        {"limite": 1800000, "nominal": 0.1400, "deducao": 39780.00},
+        {"limite": 3600000, "nominal": 0.2200, "deducao": 183780.00},
+        {"limite": 4800000, "nominal": 0.3300, "deducao": 828000.00}]},
+    "V": { "nome": "Serviços Fator R < 28%", "faixas": [
+        {"limite": 180000,  "nominal": 0.1550, "deducao": 0.00},
+        {"limite": 360000,  "nominal": 0.1800, "deducao": 4500.00},
+        {"limite": 720000,  "nominal": 0.1950, "deducao": 9900.00},
+        {"limite": 1800000, "nominal": 0.2050, "deducao": 17100.00},
+        {"limite": 3600000, "nominal": 0.2300, "deducao": 62100.00},
+        {"limite": 4800000, "nominal": 0.3050, "deducao": 540000.00}]}
+  }
+}
