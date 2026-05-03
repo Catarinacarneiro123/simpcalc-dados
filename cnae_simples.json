@@ -1,0 +1,18 @@
+{
+  "4711301": {"descricao": "Comércio varejista de mercadorias em geral", "anexo": "I"},
+  "4712100": {"descricao": "Padaria e confeitaria com predominância de revenda", "anexo": "I"},
+  "5611201": {"descricao": "Restaurantes e similares", "anexo": "I"},
+  "6201500": {"descricao": "Desenvolvimento de programas de computador sob encomenda", "anexo": "V"},
+  "6202300": {"descricao": "Desenvolvimento e licenciamento de programas de computador", "anexo": "V"},
+  "6911701": {"descricao": "Serviços advocatícios", "anexo": "IV"},
+  "6920601": {"descricao": "Atividades de contabilidade", "anexo": "III"},
+  "7410202": {"descricao": "Design de interiores", "anexo": "III"},
+  "8599604": {"descricao": "Treinamento em desenvolvimento profissional", "anexo": "III"},
+  "8630504": {"descricao": "Atividade odontológica", "anexo": "III"},
+  "8630507": {"descricao": "Atividades de psicologia", "anexo": "V"},
+  "7112000": {"descricao": "Serviços de engenharia", "anexo": "V"},
+  "7410201": {"descricao": "Design gráfico", "anexo": "III"},
+  "4321500": {"descricao": "Instalação e manutenção elétrica", "anexo": "III"},
+  "4330404": {"descricao": "Serviços de pintura de edifícios", "anexo": "IV"},
+  "4391600": {"descricao": "Obras de fundações", "anexo": "IV"}
+}
